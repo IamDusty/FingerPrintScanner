@@ -1,1 +1,1 @@
-# FingerPringScanner
+# FingerPrintScanner
